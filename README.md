@@ -1,4 +1,4 @@
-#Grade Tracker Application
+<h1><b>Grade Tracker Application</b></h1>
 
 Implement a grade tracking application. This app uses
 Firebase for Authentication and Data storage.
