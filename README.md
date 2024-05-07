@@ -12,6 +12,7 @@ the required functions.
 
 ![1](https://github.com/ashvinibalte/Assignment10_FirebaseGradAppandReviews/assets/125997432/c31f5ba3-e810-490d-8ea9-1bc2d53ace2c)
 <h2><b>Part 1: Authentication</b></h2>
+
 The requirements are as follows:
 1. This feature is already provided in the skeleton app provided
 
@@ -32,6 +33,7 @@ b. The courses list should be reloaded from firebase, and the GPA and the Hours
 should be updated. Note, this is handled through the snapshot listener.
 4. Clicking the “Add Grade” button should show the “Add Grade” Screen.
 5. Clicking the “Reviews” button should show the “Course Reviews” Screen.
+
 ![Screenshot 2024-05-07 113611](https://github.com/ashvinibalte/Assignment10_FirebaseGradAppandReviews/assets/125997432/b8722cdb-419d-4def-b304-b7f2d63bad8c)
 
 <h2><b>Part 3 : Add Grade Screen</b></h2> 
