@@ -11,7 +11,7 @@ should focus on making the required Firebase Auth and Firestore calls to impleme
 the required functions.
 
 ![1](https://github.com/ashvinibalte/Assignment10_FirebaseGradAppandReviews/assets/125997432/c31f5ba3-e810-490d-8ea9-1bc2d53ace2c)
-<h2><b>Part 1: Authentication<h2><b> 
+<h2><b>Part 1: Authentication</b></h2>
 The requirements are as follows:
 1. This feature is already provided in the skeleton app provided
 
