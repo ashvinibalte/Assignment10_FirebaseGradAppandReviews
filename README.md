@@ -18,6 +18,7 @@ The requirements are as follows:
 1. This feature is already provided in the skeleton app provided
 
 <h2><b>Part 2 : My Grades Screen</b></h2>
+
 The interface should be created to match the UI presented in Figure 1(a). The
 requirements are as follows:
 1. Retrieve the list of grades for the currently logged in user from Firestore.
@@ -38,6 +39,7 @@ should be updated. Note, this is handled through the snapshot listener.
 ![Screenshot 2024-05-07 113611](https://github.com/ashvinibalte/Assignment10_FirebaseGradAppandReviews/assets/125997432/b8722cdb-419d-4def-b304-b7f2d63bad8c)
 
 <h2><b>Part 3 : Add Grade Screen</b></h2> 
+
 The interface should be created to match the UI presented in Figure 1(b). The
 requirements are as follows:
 1. All the transitions and select buttons have been implemented in the provided skeleton
@@ -48,6 +50,7 @@ user. Then go back to the Grades Screen, which should refresh the list of grades
 update the GPA and hours listed.
 
 <h2><b>Part 4 : Course Reviews Screen</b></h2> 
+
 The interface should be created to match the UI presented in Figure 2(c). The
 requirements are as follows:
 1. The list of courses should be retrieved by making a call to the get courses API
@@ -88,6 +91,7 @@ not favored by the currently logged in user.
 6. Clicking on a row item should go to the Review Course Screen.
 
 <h2><b>Part 5 : Review Course Screen</b></h2> 
+
 The interface should be created to match the UI presented in Figure 2(d). The
 requirements are as follows:
 1. At the top of the screen, the course information.
