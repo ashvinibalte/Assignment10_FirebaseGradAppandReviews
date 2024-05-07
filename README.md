@@ -1,3 +1,5 @@
+**Grade Tracker Application**
+
 Implement a grade tracking application. This app uses
 Firebase for Authentication and Data storage.
 1. Create a new Firebase project.
