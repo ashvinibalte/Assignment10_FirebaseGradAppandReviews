@@ -117,3 +117,7 @@ review sub-collection as a new review document. The previously setup realtime
 updates which should be triggered which should refresh the comments list to
 reflect this change.
 c. Increment the review count in the course document.
+
+<h2><b>This is how data store in firebase:</b></h2>
+
+![456](https://github.com/ashvinibalte/Grade_Tracker_Application_FirebaseGradAppandReviews/assets/125997432/0599ff25-34ed-45a9-8bc1-ad20d3e66c41)
